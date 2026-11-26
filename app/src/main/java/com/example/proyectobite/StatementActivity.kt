@@ -19,7 +19,7 @@ class StatementActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-//        Recibir el usuario que mandó el Login
+//        Recibir el usuario
         val usuario = intent.getStringExtra(EXTRA_USUARIO) ?: ""
 
 //        Mostrar bienvenida
@@ -41,6 +41,11 @@ class StatementActivity : AppCompatActivity() {
             } else {
                 false
             }
+        }
+        if (savedInstanceState == null) {
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.contenedorFragment, FragmentStatement())
+                .commit()
         }
     }
     companion object {
