@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">ProyectoBite</string>
+
+    <!-- Login-->
+    <string name="label_usuario">Usuario</string>
+    <string name="label_contrasena">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+
+    <!-- validación-->
+    <string name="titulo_alerta">Error</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="error_campos_vacios">El usuario y la contraseña son obligatorios</string>
+    <string name="error_usuario_corto">El usuario debe tener al menos 8 caracteres</string>
+    <string name="error_contrasena_corta">La contraseña debe tener al menos 6 caracteres</string>
+
+    <!--Statement-->
+    <string name="titulo_detalle_cuenta">Detalle de cuenta</string>
+    <string name="bienvenido">Bienvenido, %1$s</string>
+    <string name="ultimos_movimientos">Últimos movimientos</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="error_carga">No se pudieron cargar los movimientos</string>
+
+
 </resources>
