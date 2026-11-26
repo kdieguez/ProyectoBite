@@ -30,7 +30,7 @@ INSTRUCCIONES PARA EJECUTAR
    git clone https://github.com/kdieguez/ProyectoByte.git
    (o en Android Studio: File > New > Project from Version Control y pegar la URL)
 
-2. Abrir la carpeta "ProyectoBite" en Android Studio.
+2. Abrir la carpeta "ProyectoByte" en Android Studio.
 
 3. Esperar a que termine la sincronización de Gradle (Gradle Sync) que descargará automáticamente
    las dependencias.
@@ -54,7 +54,7 @@ El usuario y la contraseña aceptan cualquier valor que cumpla con las validacio
 
 ESTRUCTURA DEL PROYECTO
 
-app/src/main/java/com/example/proyectobite/
+app/src/main/java/com/example/proyectobyte/
   - LoginActivity.kt      Pantalla de login, validaciones y navegación.
   - StatementActivity.kt  Toolbar, bienvenida, contenedor del fragment y botón Confirmar.
   - FragmentStatement.kt  Contiene el RecyclerView y consume el endpoint.

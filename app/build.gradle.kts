@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.proyectobite"
+    namespace = "com.example.proyectobyte"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.proyectobite"
+        applicationId = "com.example.proyectobyte"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

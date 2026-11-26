@@ -1,4 +1,4 @@
-package com.example.proyectobite
+package com.example.proyectobyte
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

@@ -1,4 +1,4 @@
-package com.example.proyectobite
+package com.example.proyectobyte
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

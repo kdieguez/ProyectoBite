@@ -1,4 +1,4 @@
-package com.example.proyectobite
+package com.example.proyectobyte
 
 import org.junit.Test
 
