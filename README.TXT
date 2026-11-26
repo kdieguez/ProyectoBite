@@ -27,7 +27,7 @@ REQUISITOS
 INSTRUCCIONES PARA EJECUTAR
 
 1. Clonar el repositorio:
-   git clone https://github.com/kdieguez/ProyectoBite.git
+   git clone https://github.com/kdieguez/ProyectoByte.git
    (o en Android Studio: File > New > Project from Version Control y pegar la URL)
 
 2. Abrir la carpeta "ProyectoBite" en Android Studio.

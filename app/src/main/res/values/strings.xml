@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ProyectoBite</string>
+    <string name="app_name">ProyectoByte</string>
 
     <!-- Login-->
     <string name="label_usuario">Usuario</string>

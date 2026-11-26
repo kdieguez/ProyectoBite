@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ProyectoBite"
+rootProject.name = "ProyectoByte"
 include(":app")
